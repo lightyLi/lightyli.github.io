@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Engineering Science , Universiti Malaya, 2025(expected)
+* Master of Engineering Science , Universiti Malaya, 2025 (expected)
 * B.S. in Telecommunication Engineering, Zhengzhou University, 2023
 
 Research experience
@@ -46,8 +46,7 @@ enable rapid recognition of masked faces and gate control.
 Internship experience
 ======
 * Sagemcom Communications Co., Ltd. Shenzhen, China
-  * Python Developer Intern 
-  * Jun 2022 --- Jan 2023
+  * Python Developer Intern, Jun 2022 --- Jan 2023
   * Implemented comprehensive CI test case coverage within DevOps using Python,
 developed an automated testing and bug submission script, thereby applying
 Python in engineering practice and strengthening Python development skills.
