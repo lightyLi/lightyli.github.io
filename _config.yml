@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Wei Peng Li" # Your name, e.g. "John Smith"
   pronouns         : # example: "she/her"  
-  bio              : “A master student"
+  bio              : "A master student"
   location         : "Kuala Lumpur, Malaysia" 
   employer         : "Universiti Malaya"
   uri              : # URL
@@ -152,7 +152,7 @@ social:
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-X60E0TPKK1"
+    tracking_id          :  “G-X60E0TPKK1”
 
 
 # Reading Files
