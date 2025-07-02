@@ -13,6 +13,7 @@ I expect to graduate by the end of 2025 and am currently seeking PhD or Research
 Research interest
 ======
 * Deep Learning Argilithm
+* Generative Artificial Intelligence
 * AI Applications in Healthcare
 * Physiological Signal Processing
 * AI for Science
